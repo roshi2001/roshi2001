@@ -1,7 +1,7 @@
--👋 Hi, I'm Roshitha — originally from India, currently surviving Boston winters and grad school simultaneously.
--👀 I'm interested in building AI that actually solves real problems, not just demos that look cool in a pitch deck
--🌱 I'm currently finishing my MS in Data Science at Northeastern and learning that there's always one more bug to fix before deployment
--💞️ I'm looking to collaborate on LLM applications, RAG systems, or anything where I can make data actually useful
--📫 Reach me at troshitha6@gmail.com or on Linkedin
--😄 Pronouns: she/her
--⚡ Fun fact: Left everything familiar 8,000 miles behind — because some dreams are worth the distance 🌏
+- 👋 Hi, I'm Roshitha — originally from India, currently surviving Boston winters and grad school simultaneously
+- 👀 I'm interested in building AI that actually solves real problems, not just demos that look cool in a pitch deck
+- 🌱 I'm currently finishing my MS in Data Science at Northeastern and learning that there's always one more bug to fix before deployment
+- 💞️ I'm looking to collaborate on LLM applications, RAG systems, or anything where I can make data actually useful
+- 📫 Reach me at troshitha6@gmail.com or on [LinkedIn](https://www.linkedin.com/in/roshithatiruveedhula-b46a64340/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Left everything familiar 8,000 miles behind — because some dreams are worth the distance 🌏
